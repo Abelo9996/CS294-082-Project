@@ -1,5 +1,6 @@
 # CS294-082-Project
-Repository for the final project of the CS294-082 course at UC Berkeley
+
+This publication delves into my attempts of implementing two separate Machine Learning models with the help of a Random Forest model and a CNN model to actively attempt to classify astronomical images of supernovae from the Dark Energy Survey.
 
 Further description of the project is mentioned in the Project pdf.
 
